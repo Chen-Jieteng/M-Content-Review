@@ -23,7 +23,7 @@ MChecker是一个开源AI内容审核全流程自动化平台，专为提升人�
  **智能文档生成** - 基于RAG技术自动生成审核报告和策略文档  
 
 ##  系统架构
-
+![系统架构图](readme_images/下载.png)
 MChecker将传统分离的审核流程整合到统一平台：
 -  **内容展示区** - 实时预览待审核内容
 -  **AI分析引擎** - 多模态模型并行处理
@@ -86,12 +86,6 @@ DASHSCOPE_API_KEYS=sk-key1,sk-key2,sk-key3  # 多key负载均衡
 完整展示从内容审核、AI分析、人工决策到结果输出的全流程操作：
 
 https://github.com/user-attachments/assets/63d2ab45-6211-47c6-bef2-84c94346252a
-
-
-##  系统架构
-
-![系统架构图](readme_images/下载.png)
-
 
 
 ##  平台界面展示
